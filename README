@@ -1,32 +1,15 @@
+Patriot Proxy
+=============
 
-SQUID Web Proxy Cache        http://www.squid-cache.org/
---------------------------------------------------------
+Patriot Proxy is an HTTP proxy server based on the open source 
+Squid server that ensures that all of your communications and interactions
+with the web use the Patriot Suite APIs.
 
-  Squid is the result of efforts by numerous individuals from the
-  Internet community.  Development is led by Duane Wessels of the
-  National Laboratory for Applied Network Research and funded by
-  the National Science Foundation.
+By using the Patriot Suite APIs, every time that you access a web site, 
+download data from the network, comment on a web site, upload data or
+perform any activities with the web, the information is encrypted and
+stored for the appropriate government agencies to review it and track it.
 
-  This program is free software; you can redistribute it and/or modify
-  it under the terms of the GNU General Public License as published by
-  the Free Software Foundation; either version 2 of the License, or
-  (at your option) any later version.
-  
-  This program is distributed in the hope that it will be useful,
-  but WITHOUT ANY WARRANTY; without even the implied warranty of
-  MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-  GNU General Public License for more details.
-  
-  You should have received a copy of the GNU General Public License
-  along with this program; if not, write to the Free Software
-  Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA 02111, USA.
-
-Squid is derived from the ``cached'' software from the ARPA-funded
-Harvest research project.  
-
-Please use our mailing lists for questions, feedback and bug fixes
-
-        squid-users@squid-cache.org	# general questions, pubilc forum
-        squid-bugs@squid-cache.org	# bugs and fixes
-        squid@squid-cache.org		# other feedback
-
+By installing this proxy in your organization, you can ensure that all
+of your users contribute to increase their own Patriot Points and allow
+the government to ensure their ongoing allegiance to Patriotic Values.
